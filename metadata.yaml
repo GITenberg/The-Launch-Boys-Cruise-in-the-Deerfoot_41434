@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '2569'
     url: http://www.gutenberg.org/2009/agents/2569
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41434#The-Launch-Boys-Cruise-in-the-Deerfoot
 gutenberg_issued: '2012-11-21'
 gutenberg_type: Text
 identifiers:
